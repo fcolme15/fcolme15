@@ -19,7 +19,7 @@
 ```typescript
 const franciscoColmenero = {
   pronouns: "he/him",
-  code: ["C/C++", "Java", "Python", "JavaScript", "HTML", "CSS"],
+  code: ["C/C++", "Java", "Python", "JavaScript", "F#", "sql", "HTML", "CSS"],
   tools: ["React", "Node"],
   challenge: "I am developing my own fitness app for mobile devices",
   funFact: "I debug faster with an energy drink in one hand!"
