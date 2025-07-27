@@ -11,7 +11,7 @@
 
 🌍 Based in **Chicago**  
 📚 **University of Illinois at Chicago** Grad   
-🌱 Currently learning **mobile development**—starting with **Android**, then moving on to **Swift**  
+🌱 Currently learning **Webdevelopment**—starting with **Next.js**
 🧠 Applying A* search to explore the depths of LLMs and AI, as the field truly fascinates me.    
 🤔 Looking for **projects that impact the sports world**   
 💬 Talk to me about Soccer ⚽️, Formula 1 🏎️, Football 🏈, anime, movies, and **about projects**!  
@@ -23,6 +23,6 @@ const franciscoColmenero = {
   pronouns: "he/him",
   code: ["C/C++", "Java", "Python", "JavaScript", "F#", "sql", "HTML", "CSS"],
   tools: ["Next.js", "React", "Node"],
-  challenge: "Develop my own sports player stat predictor",
+  challenge: "Develop my own sports workout app",
   funFact: "I debug faster with an energy drink in one hand"
 };
