@@ -2,11 +2,12 @@
 
 ## I'm Francisco Colmenero  
 
-- Currently working on vantageform.com where we use player data and various ML models to predict their next performance stats. 
+- Currently working on a workout app with some unique features. 
 - I enjoy creating projects, exploring various languages, and utilizing different tools.   
 - I'm passionate about building solutions that benefit others and streamline processes!  
 - Tackling complex engineering challenges while collaborating with the community is what I love to do.
-- My most recent project involved embedded systems, where I built a pedal system for my school's **SAE @ UIC** team using an STM32 microcontroller.
+- Was involved embedded systems, where I built a pedal system for my school's **SAE @ UIC** team using an STM32 microcontroller.
+- My most recent involvement was building VantageForm.com to make sports predictions
 
 🌍 Based in **Chicago**  
 📚 **University of Illinois at Chicago** Grad   
